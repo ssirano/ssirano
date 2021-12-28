@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning ...<br>
 🤔 I’m looking for a job
 <!--
 **ssirano/ssirano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
